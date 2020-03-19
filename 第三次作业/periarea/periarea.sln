@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "periarea", "periarea\periarea.csproj", "{A30F6B14-E201-4D15-B3E7-CF1419CA38CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A30F6B14-E201-4D15-B3E7-CF1419CA38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A30F6B14-E201-4D15-B3E7-CF1419CA38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A30F6B14-E201-4D15-B3E7-CF1419CA38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A30F6B14-E201-4D15-B3E7-CF1419CA38CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A04694A-D12C-4BE5-A25F-419240533094}
+	EndGlobalSection
+EndGlobal
