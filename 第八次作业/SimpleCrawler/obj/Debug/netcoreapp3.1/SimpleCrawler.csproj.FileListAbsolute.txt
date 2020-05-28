@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.exe
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.deps.json
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.dll
+C:\Users\Lenovo\Desktop\SimpleCrawler\bin\Debug\netcoreapp3.1\SimpleCrawler.pdb
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.dll
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.pdb
+C:\Users\Lenovo\Desktop\SimpleCrawler\obj\Debug\netcoreapp3.1\SimpleCrawler.genruntimeconfig.cache
