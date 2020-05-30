@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderApp", "OrderApp.csproj", "{990212D6-9E11-4B86-8892-46318E6859D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orderfw", "..\Orderfw\Orderfw.csproj", "{8AB0DE64-92C4-4FB2-8376-6AFCB7BC4E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990212D6-9E11-4B86-8892-46318E6859D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990212D6-9E11-4B86-8892-46318E6859D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990212D6-9E11-4B86-8892-46318E6859D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990212D6-9E11-4B86-8892-46318E6859D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AB0DE64-92C4-4FB2-8376-6AFCB7BC4E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB0DE64-92C4-4FB2-8376-6AFCB7BC4E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB0DE64-92C4-4FB2-8376-6AFCB7BC4E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB0DE64-92C4-4FB2-8376-6AFCB7BC4E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88086CDC-8233-41A8-AC54-F0D8D74EC2D4}
+	EndGlobalSection
+EndGlobal
