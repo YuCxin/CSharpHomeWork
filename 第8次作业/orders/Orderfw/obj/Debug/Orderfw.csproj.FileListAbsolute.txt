@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\Orderfw.exe.config
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\Orderfw.exe
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\Orderfw.pdb
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\OrderApp.exe
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\OrderApp.pdb
+C:\Users\Lenovo\Desktop\orders\Orderfw\bin\Debug\OrderApp.exe.config
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.FormEdit.resources
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.FormItemEdit.resources
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.FormMain.resources
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.exe
+C:\Users\Lenovo\Desktop\orders\Orderfw\obj\Debug\Orderfw.pdb
