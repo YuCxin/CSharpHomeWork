@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\orders\OrderApp\bin\Debug\OrderApp.exe.config
+C:\Users\Lenovo\Desktop\orders\OrderApp\bin\Debug\OrderApp.exe
+C:\Users\Lenovo\Desktop\orders\OrderApp\bin\Debug\OrderApp.pdb
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.exe
+C:\Users\Lenovo\Desktop\orders\OrderApp\obj\Debug\OrderApp.pdb
